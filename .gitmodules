@@ -1,0 +1,12 @@
+[submodule "ledger"]
+	path = ledger
+	url = https://github.com/finternet-by-terry/ledger.git
+[submodule "payment"]
+	path = payment
+	url = https://github.com/finternet-by-terry/payments.git
+[submodule "stack"]
+	path = stack
+	url = https://github.com/finternet-by-terry/stack.git
+[submodule "numscript"]
+	path = numscript
+	url = https://github.com/finternet-by-terry/numscript.git
