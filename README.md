@@ -1,4 +1,4 @@
-# Finternet Monorepo
+# Finternet with Formance Monorepo
 
 This repository contains multiple submodules that represent different parts of the Finternet-inspired infrastructure. It includes components from the following repositories, which are forked from [Formance](https://github.com/formancehq) and tweaked for Finternet on Solana, with everything being on-chain:
 
